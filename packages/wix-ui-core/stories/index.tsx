@@ -33,6 +33,7 @@ import './Input/Input.story';
 import './InputWithOptions.story';
 import './Dropdown.story';
 import './IconWithOptions.story';
+import './image.story';
 import './Label.story';
 import './LabelWithOptions.story';
 import './LinearProgressBar/index.story';
